@@ -372,7 +372,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #001f3d;
+  background: #003b6b;
 }
 
 #hero .container {
@@ -501,12 +501,13 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
+  background-color: #013865;
   padding: 60px 0;
   overflow: hidden;
 }
 
 .section-bg {
-  background-color: #f3f5fa;
+  background-color: #003b6b;
 }
 
 .section-title {
@@ -521,7 +522,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: rgb(40, 215, 255);
 }
 
 .section-title h2::before {
@@ -645,7 +646,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #37517e;
+  color:  rgb(40, 215, 255);
 }
 
 .why-us .content h4 {
@@ -656,7 +657,7 @@ section {
 
 .why-us .content p {
   font-size: 15px;
-  color: #848484;
+  color: #ffffff;
 }
 
 .why-us .img {
@@ -766,7 +767,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #37517e;
+  color: rgb(40, 215, 255);
   font-family: "Poppins", sans-serif;
 }
 
@@ -820,7 +821,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #4668a2;
+  background-color: #19e4fa;
 }
 
 /*--------------------------------------------------------------
